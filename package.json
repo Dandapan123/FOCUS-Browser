@@ -6,9 +6,9 @@
     "nginx": "^1.0.3",
     "node-static": "^0.7.11"
   },
-  "name": "Iridium",
+  "name": "FOCUS Browser",
   "version": "1.0.0",
-  "description": "Iridium instance",
+  "description": "FOCUS Browser instance",
   "main": "index.js",
   "scripts": {
     "start": "node ."
