@@ -1,4 +1,4 @@
-# FOCUS Browser-main
+# FOCUS Browser
  FOCUS Browser is a brand new sleek proxy site built on the Ultraviolet Web Proxy. This project is meant to assist users to evade censorship, bypass web filters and other related technologies.
 # Deploying
  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FNotQuiteZook%2Firidium-main)
