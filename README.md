@@ -1,5 +1,5 @@
-# Iridium-main
- Iridium is a brand new sleek proxy site built on the Ultraviolet Web Proxy. This project is meant to assist users to evade citizenship, bypass web filters and other related technologies.
+# FOCUS Browser-main
+ FOCUS Browser is a brand new sleek proxy site built on the Ultraviolet Web Proxy. This project is meant to assist users to evade censorship, bypass web filters and other related technologies.
 # Deploying
  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FNotQuiteZook%2Firidium-main)
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/NotQuiteZook/iridium-main)
@@ -11,7 +11,7 @@
 # Licenses
 MIT License
 
-Copyright (c) 2022 Iridium
+Copyright (c) 2022 FOCUS
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
